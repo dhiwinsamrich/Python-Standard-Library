@@ -1,6 +1,14 @@
-# 🐍 Python Standard Library
+<h1 align="center"># 🐍 Python Standard Library</h1>
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg) ![GitHub](https://img.shields.io/badge/GitHub-Repository-lightgrey.svg)
+<p align="center">
+  <a href="https://github.com/dhiwinsamrich/Python-Standard-Library">
+    <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3.9+-brightgreen?style=for-the-badge&logo=python" alt="Python">
+  </a>
+</p>
+
 
 Welcome to the **Python Standard Library** repository! This repository contains a collection of projects and examples that showcase the powerful modules and functionalities provided by the Python Standard Library. Dive in to explore and learn how to leverage these built-in modules for efficient and effective Python programming.
 
