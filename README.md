@@ -21,6 +21,18 @@ The Python Standard Library is a comprehensive suite of modules that come with P
 
 ## 📂 Projects
 
+### 1. argparse
+- **Description:** Argparse Module
+- **Detailed Explanation:**
+
+The `argparse` module in Python is used for parsing command-line arguments. It helps create user-friendly command-line interfaces by defining required arguments, providing help messages, and parsing user input.
+
+**Key Features:**
+- Define positional and optional arguments
+- Automatically generate help messages
+- Convert argument strings to the appropriate type
+- Specify default values for arguments
+
 
 ---
 
