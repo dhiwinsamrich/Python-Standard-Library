@@ -9,9 +9,9 @@
   </a>
 </p>
 
-
+<p align="center">
 Welcome to the **Python Standard Library** repository! This repository contains a collection of projects and examples that showcase the powerful modules and functionalities provided by the Python Standard Library. Dive in to explore and learn how to leverage these built-in modules for efficient and effective Python programming.
-
+</p>
 
 ## ✨ Introduction
 
