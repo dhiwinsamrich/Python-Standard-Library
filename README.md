@@ -33,6 +33,16 @@ The `argparse` module in Python is used for parsing command-line arguments. It h
 - Convert argument strings to the appropriate type
 - Specify default values for arguments
 
+### 2. Chat Application
+- **Description:** Chat Application with Client and Server
+- **Function:** This project includes two files: `Client` and `Server`. It demonstrates a basic chat application where multiple clients can connect to a server and exchange messages.
+
+**Key Features:**
+- **Server:** Listens for incoming connections and relays messages to all connected clients.
+- **Client:** Connects to the server, sends messages, and receives messages from other clients.
+- **Multithreading:** Ensures multiple clients can communicate simultaneously.
+
+This chat application provides a basic framework for building real-time communication systems, leveraging Python's socket programming and multithreading capabilities.
 
 ---
 
