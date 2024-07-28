@@ -44,6 +44,28 @@ The `argparse` module in Python is used for parsing command-line arguments. It h
 
 This chat application provides a basic framework for building real-time communication systems, leveraging Python's socket programming and multithreading capabilities.
 
+### 3. Daemon Threads
+- **Description:** Daemon Threads
+- **Detailed Explanation:**
+
+Daemon threads in Python are background threads that automatically terminate when all non-daemon threads have finished. They are useful for tasks that should not prevent the program from exiting.
+
+**Key Features:**
+- **Background Execution:** Daemon threads run in the background, allowing the main program to complete without waiting for the daemon threads to finish.
+- **Automatic Termination:** Daemon threads are automatically killed when the program exits.
+
+Daemon threads are ideal for tasks like monitoring, logging, or periodic updates that do not need to block the main program from exiting.
+
+### 4. Deleting Emails
+- **Description:** Deleting Emails
+- **Function:** This project demonstrates how to delete emails from an email account programmatically using Python.
+
+**Key Features:**
+- **Email Access:** Connect to an email server using IMAP or POP protocols.
+- **Email Deletion:** Identify and delete specific emails based on criteria like sender, subject, or date.
+- **Security:** Ensure secure connection and authentication when accessing the email server.
+
+This project provides a practical example of automating email management tasks, such as cleaning up old or unwanted emails from an inbox.
 ---
 
 ## 📖 Resources
