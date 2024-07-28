@@ -66,6 +66,7 @@ Daemon threads are ideal for tasks like monitoring, logging, or periodic updates
 - **Security:** Ensure secure connection and authentication when accessing the email server.
 
 This project provides a practical example of automating email management tasks, such as cleaning up old or unwanted emails from an inbox.
+
 ---
 
 ## 📖 Resources
