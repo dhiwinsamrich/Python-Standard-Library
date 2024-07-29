@@ -67,6 +67,18 @@ Daemon threads are ideal for tasks like monitoring, logging, or periodic updates
 
 This project provides a practical example of automating email management tasks, such as cleaning up old or unwanted emails from an inbox.
 
+### 5. Download and Upload Files in FTP
+- **Description:** FTP File Transfer
+- **Function:** This project demonstrates how to download and upload files to an FTP server using Python's `ftplib` module.
+
+**Key Features:**
+- **FTP Connection:** Establishes a connection to the FTP server.
+- **File Upload:** Uploads files from the local machine to the FTP server.
+- **File Download:** Downloads files from the FTP server to the local machine.
+- **Directory Navigation:** Navigates through directories on the FTP server.
+
+This project is essential for automating file transfers and managing files on remote servers using the FTP protocol.
+
 ---
 
 ## 📖 Resources
