@@ -79,6 +79,29 @@ This project provides a practical example of automating email management tasks, 
 
 This project is essential for automating file transfers and managing files on remote servers using the FTP protocol.
 
+### 6. Extension Separator
+- **Description:** Organize Files by Extension
+- **Function:** This project sorts files in a directory into subdirectories based on their file extensions.
+
+**Key Features:**
+- Automatically creates subdirectories for each file type.
+- Moves files into corresponding subdirectories.
+- Helps maintain an organized file system.
+
+The Extension Separator is a useful tool for organizing files, making it easier to manage and locate them based on their types.
+
+### 7. Generating Random Data
+- **Description:** Random Data Generator
+- **Function:** This project generates random data for testing and development purposes.
+
+**Key Features:**
+- Generate random names, addresses, emails, and more.
+- Supports customizable data formats.
+- Useful for populating databases and testing applications.
+
+Generating Random Data is essential for simulating real-world scenarios during software development and testing.
+
+
 ---
 
 ## 📖 Resources
