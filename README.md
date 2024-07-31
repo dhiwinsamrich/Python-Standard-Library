@@ -101,6 +101,29 @@ The Extension Separator is a useful tool for organizing files, making it easier 
 
 Generating Random Data is essential for simulating real-world scenarios during software development and testing.
 
+### 8. Handling Files
+- **Description:** File Handling Utilities
+- **Function:** This project demonstrates various file handling operations such as reading, writing, and manipulating files.
+
+**Key Features:**
+- Read from and write to text files.
+- Handle binary files.
+- Perform file operations like copy, move, delete, and rename.
+
+Handling Files provides a comprehensive guide to managing files efficiently in Python, showcasing the versatility of the built-in file handling capabilities.
+
+
+### 9. Hangman Game
+- **Description:** Classic Hangman Game
+- **Function:** This project implements the classic Hangman game where players guess letters to form a hidden word.
+
+**Key Features:**
+- Interactive command-line interface.
+- Tracks incorrect guesses and displays a hangman figure.
+- Provides feedback on correct and incorrect guesses.
+
+The Hangman Game is a fun and interactive project that demonstrates basic game development and user interaction in Python.
+
 
 ---
 
