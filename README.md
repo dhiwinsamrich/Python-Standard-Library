@@ -112,7 +112,6 @@ Generating Random Data is essential for simulating real-world scenarios during s
 
 Handling Files provides a comprehensive guide to managing files efficiently in Python, showcasing the versatility of the built-in file handling capabilities.
 
-
 ### 9. Hangman Game
 - **Description:** Classic Hangman Game
 - **Function:** This project implements the classic Hangman game where players guess letters to form a hidden word.
@@ -123,6 +122,28 @@ Handling Files provides a comprehensive guide to managing files efficiently in P
 - Provides feedback on correct and incorrect guesses.
 
 The Hangman Game is a fun and interactive project that demonstrates basic game development and user interaction in Python.
+
+### 10. Listing Files in FTP Server
+- **Description:** FTP Server File Listing
+- **Function:** This project connects to an FTP server and lists all files in a specified directory.
+
+**Key Features:**
+- Connect to an FTP server using credentials.
+- Navigate directories and list files.
+- Useful for managing and auditing files on an FTP server.
+
+Listing Files in FTP Server helps in accessing and managing files on remote FTP servers efficiently.
+
+### 11. Logging
+- **Description:** Logging Module
+- **Function:** This project demonstrates the use of Python's built-in `logging` module for tracking events and debugging.
+
+**Key Features:**
+- Set up and configure loggers, handlers, and formatters.
+- Log messages at different severity levels (DEBUG, INFO, WARNING, ERROR, CRITICAL).
+- Write log messages to files, console, or other outputs.
+
+The Logging module is crucial for monitoring application behavior, diagnosing issues, and maintaining records of events in a systematic manner.
 
 
 ---
