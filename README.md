@@ -145,6 +145,27 @@ Listing Files in FTP Server helps in accessing and managing files on remote FTP 
 
 The Logging module is crucial for monitoring application behavior, diagnosing issues, and maintaining records of events in a systematic manner.
 
+### 12. Regular Expressions
+- **Description:** Working with Regular Expressions
+- **Function:** This project demonstrates how to use Python's `re` module for searching, matching, and manipulating strings using regular expressions.
+
+**Key Features:**
+- Pattern matching
+- Substring search and replace
+- Validating string formats
+
+Regular Expressions are powerful tools for text processing, allowing complex pattern matching and string manipulation tasks.
+
+### 13. Split String
+- **Description:** Split Strings with Custom Delimiters
+- **Function:** This project shows how to split strings into lists using custom delimiters.
+
+**Key Features:**
+- Split strings based on single or multiple delimiters
+- Handle edge cases and empty strings
+- Rejoin split strings
+
+Splitting strings is a common task in data processing and manipulation, making this project useful for handling various text formats.
 
 ---
 
