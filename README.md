@@ -167,6 +167,17 @@ Regular Expressions are powerful tools for text processing, allowing complex pat
 
 Splitting strings is a common task in data processing and manipulation, making this project useful for handling various text formats.
 
+### 13. Using Threads
+- **Description:** Multithreading in Python
+- **Function:** This project demonstrates the use of threads in Python to run multiple tasks concurrently.
+
+**Key Features:**
+- Create and manage multiple threads.
+- Synchronize threads to prevent race conditions.
+- Improve the performance of I/O-bound and high-latency operations.
+
+Using Threads is crucial for developing applications that require concurrent execution and efficient use of system resources.
+
 ---
 
 ## 📖 Resources
