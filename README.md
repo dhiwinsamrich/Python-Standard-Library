@@ -178,6 +178,18 @@ Splitting strings is a common task in data processing and manipulation, making t
 
 Using Threads is crucial for developing applications that require concurrent execution and efficient use of system resources.
 
+### 5. Working with JSON
+- **Description:** JSON Handling in Python
+- **Function:** This project demonstrates how to work with JSON data in Python, including reading from and writing to JSON files.
+
+**Key Features:**
+- Parse JSON strings into Python dictionaries.
+- Convert Python dictionaries to JSON strings.
+- Read from and write to JSON files.
+- Handle nested JSON structures.
+
+Working with JSON is crucial for data interchange between systems, especially in web development and API integration.
+
 ---
 
 ## 📖 Resources
